@@ -20,29 +20,12 @@
 </div>
 
 ### Statistics :star:
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=dark" alt="Breno's GitHub stats-Dark" width="400" height="300" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=default" alt="Breno's GitHub stats-Light" width="400" height="300" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=dark" alt="Most Used Languages-Dark" width="400" height=168" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=default" alt="Most Used Languages-Light" width="400" height="168" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Breno-V&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### Contacts ☎️
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Baumzin/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-v)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l3renoValentim@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l3renoValentim)
-
-
-
-          
+   
           
