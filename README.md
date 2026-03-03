@@ -1,5 +1,5 @@
 # Hello, Welcome! :wave:
-👦 | I'm 17 years old and a fullStack developer <br>
+👦 | I'm 17 years old and a FrontEnd developer <br>
 🚀 | I'm excited and enthusiastic to delve deeper into the programming field. <br>
 🎮 | In my free time, I enjoy playing **Hollow Knight** — a challenge that trains _patience_ and _focus_.
 
